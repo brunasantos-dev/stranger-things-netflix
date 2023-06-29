@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    color: #C8C8C8;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+body {
+    background: url("/assets/img/Rectangle\ 1.png") no-repeat fixed;
+    background-size: contain;
+}
+
+
+.header ul {
+    font-size: 24;
+}
+
+.nav-link li {
+    display: inline;
+    margin-right: 10px;
+}
+
+
+h1 {
+    color: #FFF;
+    font-size: 64px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    letter-spacing: 3.52px;
+
+}
+
+.sub-description li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.description {
+    margin-top: 10px;
+}
